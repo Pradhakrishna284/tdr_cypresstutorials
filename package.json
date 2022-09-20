@@ -1,0 +1,19 @@
+{
+  "name": "cypresstutorials",
+  "version": "1.0.0",
+  "description": "cypress e2e",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "radha krishna",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/mocha": "^9.1.1",
+    "cypress": "^10.7.0",
+    "cypress-slow-down": "^1.2.1",
+    "typescript": "^4.8.3"
+  }
+}
